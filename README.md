@@ -7,7 +7,7 @@ The purpose of this project is to create a deployable web application that will 
 
 
 ## Built With
-
+* HTML
 * CSS
 * JavaScript
 
